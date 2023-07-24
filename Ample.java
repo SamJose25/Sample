@@ -2,8 +2,9 @@ class Ample
 {
     public static void main(String arh[])
     {
-        int a=12;
-    boolean bool=true;
+
+        int a=120;
+        boolean bool=true;
         
         
         if(a==2)
