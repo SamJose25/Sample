@@ -3,7 +3,7 @@ class Ample
     public static void main(String arh[])
     {
 
-        int a=120;
+        int a=2;
         boolean bool=true;
         
         
